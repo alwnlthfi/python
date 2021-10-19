@@ -11,7 +11,7 @@
 
 *Lalu save file baru tadi dengan cara klik file-save (CTRL+S)
 
-![ss8](https://user-images.githubusercontent.com/92609633/137893110-c20d7c54-f205-4492-bcde-af105114df9b.png) numpang yaa witaaaa wkwkwk
+![ss8](https://user-images.githubusercontent.com/92609633/137893110-c20d7c54-f205-4492-bcde-af105114df9b.png)
 
 *Lalu simpan file tersebut di tempat yang sudah di siapkan (MENGGUNAKAN FORMAT .py)
 
