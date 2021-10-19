@@ -11,7 +11,7 @@
 
 *Lalu save file baru tadi dengan cara klik file-save (CTRL+S)
 
-![Gambar 3](screeshoot/ss3.png)
+![Gambar 8](screeshoot/ss8.png)
 
 *Lalu simpan file tersebut di tempat yang sudah di siapkan (MENGGUNAKAN FORMAT .py)
 
